@@ -27,3 +27,7 @@ Creare un `Model` per i treni ed un relativo `Controller` per poi mostrare nella
 ### Bonus
 
 Inventare lo stile del tabellone treni.
+
+risultato finale:
+
+![tabellone](./public/image.png)
