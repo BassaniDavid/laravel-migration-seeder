@@ -32,16 +32,16 @@
                 @foreach ($trains as $train)
                 <tr>
                     <td>{{$train['azienda']}}</td>
-                    <td>{{$train['stazione di partenza']}}</td>
-                    <td>{{$train['stazione di arrivo']}}</td>
+                    <td>{{$train['stazione_di_partenza']}}</td>
+                    <td>{{$train['stazione_di_arrivo']}}</td>
                     <td>{{$train['partenza']}}</td>
                     <td>{{$train['arrivo']}}</td>
-                    <td>{{$train['codice treno']}}</td>
-                    <td>{{$train['numero carrozze']}}</td>
+                    <td>{{$train['codice_treno']}}</td>
+                    <td>{{$train['numero_carrozze']}}</td>
                     <td>
                         @if ($train['cancellato'] == true)
                         <span class="text-danger fw-bolder">cancellato</span>
-                        @elseif ($train['in orario'] == true)
+                        @elseif ($train['in_orario'] == true)
                         <span class="text-success">in orario</span>
                         @else
                         <span class="text-danger">in ritardo</span>

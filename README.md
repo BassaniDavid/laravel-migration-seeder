@@ -1,6 +1,8 @@
 # Tabellone Treni
 
-## Obiettivo: Imparare a modellare la struttura dei database grazie alle Migrations.
+## giorno 1
+
+### Obiettivo: Imparare a modellare la struttura dei database grazie alle Migrations.
 
 ### Milestone 1
 
@@ -31,3 +33,9 @@ Inventare lo stile del tabellone treni.
 risultato finale:
 
 ![tabellone](./public/image.png)
+
+## giorno 2
+
+### Obiettivo: inserire dei dati nel database tramite i seed.
+
+![tabellone](./public/image-2.png)
