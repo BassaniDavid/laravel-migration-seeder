@@ -16,7 +16,7 @@
 </head>
 <body class="container text-center" style="font-family: 'Share Tech Mono', monospace;">
     <h1 class="my-5">tabellone prossimi treni in partenza</h1>
-    <div class="border border-1 rounded-3 p-3">
+    <div class="border border-1 rounded-3 p-3 mb-5">
         <table class="table m-0">
             <tr class="table-primary">
                 <th>azienda</th>
