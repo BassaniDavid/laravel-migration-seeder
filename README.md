@@ -39,3 +39,7 @@ risultato finale:
 ### Obiettivo: inserire dei dati nel database tramite i seed.
 
 ![tabellone](./public/image-2.png)
+
+### Milestone 2: inserire i dati utilizzando dei faker
+
+![tabellone](./public/image-3.png)
